@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: bisadora1@gmail.com
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I have a degree in philosophy,so communication
+- ⚡ Fun fact: I have a degree in philosophy so communication
                and critical thinking are my strengths!
 - ⚡ A bit more bout Me: I'm studying Systems Analysis and Development
                       at Unifor. I started to like programming through 
